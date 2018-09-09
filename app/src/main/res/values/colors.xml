@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c32123</color>
+    <color name="colorPrimaryDark">#9f3030</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#d1180b</color>
+    <color name="darkRed">#ae1106</color>
+    <color name="green">#419a38</color>
+    <color name="dark">#666666</color>
+    <color name="black">#000000</color>
+    <color name="ancient_egypt_background">#feebb1</color>
+    <color name="islamic_egypt_background">#ffe596</color>
+    <color name="museum_egypt_background">#ffe596</color>
+    <color name="modern_egypt_background">#ffe999</color>
+    <color name="link_color">#0132e3</color>
+</resources>

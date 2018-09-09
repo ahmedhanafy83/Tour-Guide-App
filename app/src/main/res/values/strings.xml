@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="header">header</string>
+    <string name="description_of_header">description of header</string>
+    <string name="www_text_com">www.text.com</string>
+    <string name="about_place">about place</string>
+    <!-- AncientTourism-->
+    <string name="pyramid">pyramids</string>
+    <string name="simbel">Abu Simbel Temple</string>
+    <string name="great">Great Sphinx</string>
+    <string name="karnk">Karnak Temple</string>
+    <string name="queen">Queen Hatshepsut</string>
+    <string name="pyramids">Built during a time when Egypt was one of the richest and most powerful civilizations in the world, the pyramids—especially the Great Pyramids of Giza—are some of the most magnificent man-made structures in history.</string>
+    <string name="pyramids_link">https://www.egypttoursplus.com/giza-pyramids/</string>
+    <string name="abu_simbel">Abu Simbel, site of two temples built by the Egyptian king Ramses II,Construction of the temple complex started in approximately 1264 BC and lasted for about 20 years,located in Aswān,southern Egypt.</string>
+    <string name="abu_simbel_link">https://www.egypttoursplus.com/abu-simbel-temples/</string>
+    <string name="sphinx">Besides the Pyramids, another iconic feature of Giza Pyramids tours is the Sphinx and the Temple of the Sphinx. This human headed lion was originally built in honor of the sun god Re-Horakhty. Is your curiosity piqued by the Sphinx’s missing nose? No, the ancient Egyptians didn’t have a sense of humor. What is believed to be the cause of the missing nose is that bored soldiers once used the Sphinx as target practice. The culprits have been suggested to be anyone from World War I British troops, to Napoleon’s army, to even Turks of the old era.</string>
+    <string name="sphinx_link">https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza</string>
+    <string name="karnak">Karnak Temple is actually a vast temple city, with many of its structures dating back 4,000 years. It is today the largest remaining religious site of the ancient world, and it is visited by thousands of tourists every year. Because of its immense popularity, it is featured in many Egypt vacation packages, including many Nile cruise holidays.</string>
+    <string name="karnak_link">https://www.egypttoursplus.com/karnak-temple/</string>
+    <string name="hatshepsut">Queen Hatshepsut Temple is a mortuary temple located near the Valley of the Kings, and it is today considered to be one of the great wonders of Ancient Egypt.</string>
+    <string name="hatshepsut_link">https://www.egypttoursplus.com/hatshepsut-temple/</string>
+    <!-- ModernTourism-->
+    <string name="cairo_tower">Reaching 187 meters into the sky, Cairo Tower is undeniably one of Cairo’s most distinguishable landmarks, and one which is definitely worth a visit.</string>
+    <string name="cairo_tower_link">https://www.egypttoursplus.com/cairo-tower/</string>
+    <string name="al_azhar_park">Al Azhar Park is universally recognized as being one of the top 60 public spaces in the world, and anyone who visits the park will soon see why. In fact, it would be impossible to discuss or even mention all of the park’s features in a single short post, so the next time you are in Cairo, set a few hours aside and spend them at the sprawling 30-hecter Al Azhar Park .</string>
+    <string name="al_azhar_link">https://www.egypttoursplus.com/al-azhar-park/</string>
+    <string name="sound_light">Giza Pyramids Sound and Light Show is one thing which you really do not want to miss when you visit Cairo. Practically Everyone who visits Egypt wants to see the Giza Pyramids, and the good news is, now you have a reason to visit them at night as well.</string>
+    <string name="sound_light_link">https://www.egypttoursplus.com/giza-pyramids-sound-and-light-show/</string>
+    <string name="opera">The Cairo Opera House is also known as the Egyptian Opera House in Arabic, and it is essentially a part of Cairo’s Nation Culture Center. It is located on a small island in the Nile River known as Gezira Island which is a little to the west of downtown Cairo. It is without question Cairo’s premier venue for the performing arts, and the go-to place for most of Egypt’s top musical groups and other performing artists.</string>
+    <string name="opera_link">https://www.egypttoursplus.com/cairo-opera-house/</string>
+    <string name="pharaonic">Pharaonic Village is located on a smallish Nile River island known as Ya’aqoub Island not very far from downtown Cairo, and covers an area of approximately 490,000 square meters. The aim of this delightful attraction is to provide visitors with the opportunity to see what village life was like in ancient Egypt during the Pharaonic era. This is accomplished with the use of a wide range of replicas, along with the services of numerous actors and actresses.</string>
+    <string name="pharaonic_link">https://www.egypttoursplus.com/pharaonic-village/</string>
+    <string name="tower">Cairo Tower</string>
+    <string name="azhar">Al Azhar Park</string>
+    <string name="sound_show">Giza Pyramids Sound and Light Show</string>
+    <string name="opera_cairo">Cairo Opera House</string>
+    <string name="village">Pharaonic Village</string>
+    <!--IslamicTourism -->
+    <string name="hakim">Al-Hakim Mosque</string>
+    <string name="hakim_text">The Al-Hakim Mosque in Cairo is a major Muslim religious site located in an area of the city known as Islamic Cairo, just a short distance to the south of Bab Al-Futuh, which is the name of the old city’s Northern Gate. It is the second-most religiously significant Fatimid mosque in Egypt, and the 4th most religiously significant complex in the country.</string>
+    <string name="hakim_link">https://www.egypttoursplus.com/al-hakim-mosque/</string>
+    <string name="al_azhar_mosque">Mosque of Al Azhar</string>
+    <string name="al_azhar_mosque_text">The Mosque of Al Azhar is just one of many mosques in Cairo. After all, there is a good reason why Cairo is often referred to as the City of Minarets. Nonetheless but even so, the Al Azhar mosque still manages to stand out.</string>
+    <string name="al_azhar_mosque_link">https://www.egypttoursplus.com/mosque-of-al-azhar/</string>
+    <string name="muhammed_ali">Mosque of Muhammad Ali</string>
+    <string name="muhammed_ali_text">The Mosque of Muhammad Ali in Cairo is also fondly referred to as the Alabaster Mosque, and thanks to its outstanding beauty, it’s the most visited mosque in Egypt.</string>
+    <string name="muhammed_ali_link">https://www.egypttoursplus.com/mosque-of-muhammad-ali/</string>
+    <string name="haggag">Abu Haggag Mosque</string>
+    <string name="haggag_text">The Abu Haggag Mosque is located on Luxor’s East Bank, in the first court of the ancient Luxor Temple complex. Although not much remains of Luxor Temple, there’s more than enough to make it one of the most visited Luxor attractions. Anyone who visits Luxor Temple is essentially also visiting the mosque, and the nice thing is that visitors, including non-Muslims, are welcome to take a look around inside.</string>
+    <string name="haggag_link">https://www.egypttoursplus.com/abu-haggag-mosque/</string>
+    <!--MuseumTourism -->
+    <string name="grand">The Grand Egyptian Museum</string>
+    <string name="grand_text">Welcome to the Grand Egyptian Museum, one of the latest additions to Egypt’s already infinite number of mind-blowing attractions. Also known as the Giza Museum, this sprawling complex is still a work in progress. At the time of writing this post (April 2018), the museum is still under construction, with the latest reports from the Egyptian Ministry of Culture promising that a partial opening will take place at some point during 2018.</string>
+    <string name="grand_link">https://www.egypttoursplus.com/grand-egyptian-museum/</string>
+    <string name="egyptian_museum">The Egyptian Museum</string>
+    <string name="egyptian_museum_text">The Egyptian Museum, usually just called the “Museum of Egyptian Antiquities”, houses the world’s biggest collection of ancient Egyptian artifacts.</string>
+    <string name="egyptian_museum_link">https://www.egypttoursplus.com/egyptian-museum/</string>
+    <string name="museum_of_art">The Museum of Modern Egyptian Art </string>
+    <string name="museum_of_art_text">The Museum of Modern Egyptian Art is also known as the Gezira Center for Modern Art and the Egyptian Modern Art Museum. It is a part of the National Cultural Center, along with the Cairo Opera House, and it is located on the same grounds as the opera house, on a Nile River island known as Gezira Island.</string>
+    <string name="museum_of_art_link">https://www.egypttoursplus.com/museum-of-modern-egyptian-art/</string>
+    <string name="nubian">The Nubian Museum</string>
+    <string name="nubian_text">The Nubian Museum has been specifically created to help enlighten visitors about the crucial role this ancient civilization played during Egypt’s past.</string>
+    <string name="nubian_link">https://www.egypttoursplus.com/nubian-museum/</string>
+    <!-- Fragment /name -->
+    <string name="Ancient">Ancient Tourism</string>
+    <string name="Modern">Modern Tourism</string>
+    <string name="Islamic">Islamic Tourism</string>
+    <string name="Museum">Museum Tourism</string>
+
+    resourcesODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
